@@ -1,0 +1,13 @@
+/* ------- RESET ----*/
+*{
+	margin:0;
+	padding: 0;	
+}
+img{
+	vertical-align: top;
+	margin: 0;
+}
+li{
+	list-style: none;
+}
+
